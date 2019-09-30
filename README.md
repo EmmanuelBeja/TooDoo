@@ -1,5 +1,4 @@
 # TooDoo
-# TooDoo
 
 A simple React-native ToDo application
 
